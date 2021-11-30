@@ -1,0 +1,16 @@
+.joke__container {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding-top: 30px;
+  justify-items: center;
+}
+
+.joke__info {
+  display: grid;
+  grid-template-columns: 800px;
+  justify-items: left;
+  align-items: center;
+  gap: 10px;
+  padding-top: 30px;
+  text-align: left;
+}
